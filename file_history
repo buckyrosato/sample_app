@@ -1,0 +1,556 @@
+commit ecb502c4fe500662e9913e930cc1c6f67fcc89cc
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Tue Aug 16 02:39:31 2011 -0700
+
+    nothing
+
+M	Gemfile
+M	Gemfile~
+M	app/views/pages/help.html.erb~
+
+commit 658bf4ab3b229d2bd2c8fe6f1a34be90ac54bef3
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Tue Aug 16 02:32:51 2011 -0700
+
+    1111 first user model
+
+A	_.swp
+
+commit e27ebc982db604b1a16d95b9d4c3e2daad084c41
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Tue Aug 16 01:49:34 2011 -0700
+
+    22 hope works
+
+M	app/views/pages/help.html.erb
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I05AH4T.ipa
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I0GS8X0.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I1KFEEA.txt
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I26DJHL.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I2BM9D0.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I3CBTFP.bin
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I3FW766.bin
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I4W3J7V.bin
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I6H3CZ8.bin
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I7UBMT6.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I8PV843.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I8ZJJB2.pde
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I96162P.1
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I9DSY73.pde
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I9G6OE6.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IA05PMX.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IAE0BZG.ipsw
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IAU0MEH.1-8-g9bf9513
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IBR5G3B.pde
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IBYZUZC.bin
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ICOPLL7.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ICOQ1SZ.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ID0XU0L.pde
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IDL0E3T.ipsw
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IDXY9PD.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IE4KY4Q.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IE7DXL2.pde
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IFH101N.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IH1SNI3.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IHNDRGY.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IILGXFX.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IKXH2FN.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ILFH1D1.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ILNKKSL.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$INRJ3FG.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$INX9VOJ.mp4
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IOLMFGK.pde
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IOM4J6W.wmv
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IP5KK1C.bin
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IPKCACP.exe
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IQD4JYQ.bin
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IR3Z9JX.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IR69MZX.erb~
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IR7XG7C.jpg
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IRVF6I8.pde
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IYWKFVB.bin
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$R05AH4T.ipa
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$R1KFEEA.txt
+D	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$R3CBTFP.bin
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/.gitignore
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/AUTHORS.textile
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/CHANGELOG
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/Gemfile
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/Gemfile.lock
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/LICENSE
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/README.textile
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/Rakefile
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/TUTORIAL.textile
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/ie.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/icons/cross.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/icons/key.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/icons/tick.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/readme.txt
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/screen.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/fancy-type/readme.txt
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/fancy-type/screen.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/doc.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/email.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/external.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/feed.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/im.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/lock.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/pdf.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/visited.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/xls.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/readme.txt
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/screen.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/rtl/readme.txt
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/rtl/screen.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/print.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/screen.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/forms.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/grid.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/grid.png
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/ie.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/print.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/reset.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/typography.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/debug/README.textile
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/debug/debug.css
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/debug/debug.html
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/generate_stylesheets.feature
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/step_definitions/blueprint_steps.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/blueprint_app.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/blueprint_helpers.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/document_element.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/element_helpers.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/env.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/jquery.js
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/blueprint.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/compressor.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/core_ext.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/css_parser.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/custom_layout.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/grid.css.erb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/grid_builder.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/namespace.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/semantic_class_names.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/COPYRIGHT.html
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/JIGSAW_COPYRIGHT
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/README.html
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/XERCES_COPYING.txt
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/css-validator-javadoc.jar
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/css-validator.jar
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/jigsaw.jar
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/xerces.jar
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validator.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/compress.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/settings.example.yml
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/validate.rb
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/templates/psd/fixed-width.psd
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/index.html
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/elements.html
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/forms.html
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/grid.html
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/plugins/link-icons.html
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/sample.html
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/test-small.jpg
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/test.jpg
+D	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/valid.png
+
+commit 9e2844d79c6be642a022be870798c956cdd68a8e
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Tue Aug 16 00:53:28 2011 -0700
+
+    user model 1
+
+M	app/views/pages/help.html.erb
+M	app/views/pages/help.html.erb~
+
+commit 5d04ae663e99fba8abddaa38e0bea706a0291b1d
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Mon Aug 15 23:19:50 2011 -0700
+
+    first part user modeling
+
+M	app/views/pages/help.html.erb
+M	app/views/pages/help.html.erb~
+
+commit c666a03b9ac6890fe7141d1f375ecc6620a642b7
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Mon Aug 15 23:17:57 2011 -0700
+
+    first user modeling part finished
+
+M	app/views/layouts/_footer.html.erb
+
+commit a4ddee759e2f813306593de68124bee6716c06f3
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Mon Aug 15 23:04:44 2011 -0700
+
+    first part of user modeling done
+
+M	app/views/layouts/_footer.html.erb
+
+commit bf8e010a9e276a464693143ffd939269844f0a6d
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Mon Aug 15 20:04:15 2011 -0700
+
+    finished first part of users model
+
+D	public/index.html
+
+commit cc4845d14309ca99a2c6cff8639c91765029c809
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Mon Aug 15 20:00:30 2011 -0700
+
+    finished first part of user model
+
+A	.project
+M	app/controllers/users_controller.rb
+A	app/models/user.rb
+M	app/views/layouts/application.html.erb
+A	app/views/users/show.html.erb
+A	app/views/users/show.html.erb~
+A	bin/autotest
+A	bin/multigem
+A	bin/multiruby
+A	bin/multiruby_setup
+A	bin/unit_diff
+A	bin/zentest
+M	config/routes.rb
+A	db/migrate/20110810023648_create_users.rb
+A	db/migrate/20110815041950_add_email_uniqueness_index.rb
+A	db/schema.rb
+A	nbproject/private/config.properties
+A	nbproject/private/private.properties
+A	nbproject/private/private.xml
+A	nbproject/private/rake-d.txt
+A	nbproject/project.properties
+A	nbproject/project.xml
+A	spec/models/user_spec.rb
+
+commit f8a2d65f8db09f512d01bea28c8ae947cabb871e
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Tue Aug 9 17:30:36 2011 -0700
+
+    finished layout and routes
+
+A	.autotest
+A	.autotest.backup
+A	.autotest~
+A	.gem/specs/rubygems.org%80/latest_specs.4.8
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/ZenTest-4.6.0.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-4.4.6.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-growl-0.2.9.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-notification-2.3.3.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-rails-pure-4.1.2.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-standalone-4.5.0.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-standalone-4.5.1.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-standalone-4.5.2.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-standalone-4.5.3.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-standalone-4.5.4.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/autotest-standalone-4.5.5.gemspec
+A	.gem/specs/rubygems.org%80/quick/Marshal.4.8/rubygems-update-1.8.7.gemspec
+A	.gem/specs/rubygems.org%80/specs.4.8
+M	.rspec
+A	.rspec~
+M	Gemfile
+M	Gemfile.lock
+M	Gemfile~
+A	_viminfo
+A	about.html.erb
+M	app/controllers/pages_controller.rb
+A	app/controllers/pages_controller.rb~
+A	app/controllers/users_controller.rb
+A	app/controllers/users_controller.rb~
+M	app/helpers/application_helper.rb
+A	app/helpers/application_helper.rb~
+A	app/helpers/users_helper.rb
+A	app/views/layouts/_footer.html.erb
+A	app/views/layouts/_footer.html.erb~
+A	app/views/layouts/_header.html.erb
+A	app/views/layouts/_header.html.erb~
+A	app/views/layouts/_stylesheets.html.erb
+M	app/views/layouts/application.html.erb
+A	app/views/layouts/application.html.erb~
+A	app/views/pages/about.html.erb
+A	app/views/pages/about.html.erb~
+M	app/views/pages/contact.html.erb
+A	app/views/pages/contact.html.erb~
+A	app/views/pages/help.html.erb
+A	app/views/pages/help.html.erb~
+M	app/views/pages/home.html.erb
+M	app/views/pages/home.html.erb~
+A	app/views/users/new.html.erb
+A	bin/annotate
+A	bin/autospec
+A	bin/erubis
+A	bin/htmldiff
+A	bin/ldiff
+A	bin/nokogiri
+A	bin/rackup
+A	bin/rails
+A	bin/rake
+A	bin/rake2thor
+A	bin/rdoc
+A	bin/ri
+A	bin/rspec
+A	bin/spork
+A	bin/thor
+A	bin/tt
+M	config/routes.rb
+A	config/routes.rb~
+A	example_user.rb
+A	public/images/logo.png
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I05AH4T.ipa
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I0GS8X0.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I1KFEEA.txt
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I26DJHL.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I2BM9D0.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I3CBTFP.bin
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I3FW766.bin
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I4W3J7V.bin
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I6H3CZ8.bin
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I7UBMT6.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I8PV843.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I8ZJJB2.pde
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I96162P.1
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I9DSY73.pde
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$I9G6OE6.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IA05PMX.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IAE0BZG.ipsw
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IAU0MEH.1-8-g9bf9513
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IBR5G3B.pde
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IBYZUZC.bin
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ICOPLL7.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ICOQ1SZ.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ID0XU0L.pde
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IDL0E3T.ipsw
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IDXY9PD.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IE4KY4Q.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IE7DXL2.pde
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IFH101N.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IH1SNI3.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IHNDRGY.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IILGXFX.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IKXH2FN.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ILFH1D1.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$ILNKKSL.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$INRJ3FG.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$INX9VOJ.mp4
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IOLMFGK.pde
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IOM4J6W.wmv
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IP5KK1C.bin
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IPKCACP.exe
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IQD4JYQ.bin
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IR3Z9JX.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IR69MZX.erb~
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IR7XG7C.jpg
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IRVF6I8.pde
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$IYWKFVB.bin
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$R05AH4T.ipa
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$R1KFEEA.txt
+A	public/stylesheets/$Recycle.Bin/S-1-5-21-1426738309-3641017681-1101809668-1000/$R3CBTFP.bin
+A	public/stylesheets/blueprint/ie.css
+A	public/stylesheets/blueprint/plugins/buttons/icons/cross.png
+A	public/stylesheets/blueprint/plugins/buttons/icons/key.png
+A	public/stylesheets/blueprint/plugins/buttons/icons/tick.png
+A	public/stylesheets/blueprint/plugins/buttons/readme.txt
+A	public/stylesheets/blueprint/plugins/buttons/screen.css
+A	public/stylesheets/blueprint/plugins/fancy-type/readme.txt
+A	public/stylesheets/blueprint/plugins/fancy-type/screen.css
+A	public/stylesheets/blueprint/plugins/link-icons/icons/doc.png
+A	public/stylesheets/blueprint/plugins/link-icons/icons/email.png
+A	public/stylesheets/blueprint/plugins/link-icons/icons/external.png
+A	public/stylesheets/blueprint/plugins/link-icons/icons/feed.png
+A	public/stylesheets/blueprint/plugins/link-icons/icons/im.png
+A	public/stylesheets/blueprint/plugins/link-icons/icons/lock.png
+A	public/stylesheets/blueprint/plugins/link-icons/icons/pdf.png
+A	public/stylesheets/blueprint/plugins/link-icons/icons/visited.png
+A	public/stylesheets/blueprint/plugins/link-icons/icons/xls.png
+A	public/stylesheets/blueprint/plugins/link-icons/readme.txt
+A	public/stylesheets/blueprint/plugins/link-icons/screen.css
+A	public/stylesheets/blueprint/plugins/rtl/readme.txt
+A	public/stylesheets/blueprint/plugins/rtl/screen.css
+A	public/stylesheets/blueprint/print.css
+A	public/stylesheets/blueprint/screen.css
+A	public/stylesheets/blueprint/src/forms.css
+A	public/stylesheets/blueprint/src/grid.css
+A	public/stylesheets/blueprint/src/grid.png
+A	public/stylesheets/blueprint/src/ie.css
+A	public/stylesheets/blueprint/src/print.css
+A	public/stylesheets/blueprint/src/reset.css
+A	public/stylesheets/blueprint/src/typography.css
+A	public/stylesheets/custom.css
+A	public/stylesheets/custom.css~
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/.gitignore
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/AUTHORS.textile
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/CHANGELOG
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/Gemfile
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/Gemfile.lock
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/LICENSE
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/README.textile
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/Rakefile
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/TUTORIAL.textile
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/ie.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/icons/cross.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/icons/key.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/icons/tick.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/readme.txt
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/buttons/screen.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/fancy-type/readme.txt
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/fancy-type/screen.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/doc.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/email.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/external.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/feed.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/im.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/lock.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/pdf.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/visited.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/icons/xls.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/readme.txt
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/link-icons/screen.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/rtl/readme.txt
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/plugins/rtl/screen.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/print.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/screen.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/forms.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/grid.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/grid.png
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/ie.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/print.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/reset.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/blueprint/src/typography.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/debug/README.textile
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/debug/debug.css
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/debug/debug.html
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/generate_stylesheets.feature
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/step_definitions/blueprint_steps.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/blueprint_app.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/blueprint_helpers.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/document_element.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/element_helpers.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/env.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/features/support/jquery.js
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/blueprint.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/compressor.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/core_ext.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/css_parser.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/custom_layout.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/grid.css.erb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/grid_builder.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/namespace.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/semantic_class_names.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/COPYRIGHT.html
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/JIGSAW_COPYRIGHT
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/README.html
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/XERCES_COPYING.txt
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/css-validator-javadoc.jar
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/css-validator.jar
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/jigsaw.jar
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validate/xerces.jar
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/blueprint/validator.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/compress.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/settings.example.yml
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/lib/validate.rb
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/templates/psd/fixed-width.psd
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/index.html
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/elements.html
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/forms.html
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/grid.html
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/plugins/link-icons.html
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/sample.html
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/test-small.jpg
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/test.jpg
+A	public/stylesheets/joshuaclayton-blueprint-css-9bf9513/tests/parts/valid.png
+M	spec/controllers/pages_controller_spec.rb
+A	spec/controllers/pages_controller_spec.rb~
+A	spec/controllers/users_controller_spec.rb
+A	spec/controllers/users_controller_spec.rb~
+D	spec/helpers/pages_helper_spec.rb
+A	spec/requests/layout_links_spec.rb
+A	spec/requests/layout_links_spec.rb~
+M	spec/spec_helper.rb
+A	spec/spec_helper.rb~
+D	spec/views/pages/contact.html.erb_spec.rb
+D	spec/views/pages/home.html.erb_spec.rb
+
+commit ea05e4df9a3f258c771958b9c8cf39ecbcd05172
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Sat Aug 6 10:40:21 2011 -0700
+
+    added a pages controller
+
+A	README.markdown~
+A	app/controllers/.pages_controller.rb.swp
+A	app/controllers/pages_controller.rb
+A	app/helpers/pages_helper.rb
+A	app/views/pages/.home.html.erb.swp
+A	app/views/pages/contact.html.erb
+A	app/views/pages/home.html.erb
+A	app/views/pages/home.html.erb~
+A	config/.routes.rb.swp
+M	config/routes.rb
+A	spec/controllers/pages_controller_spec.rb
+A	spec/helpers/pages_helper_spec.rb
+A	spec/views/pages/contact.html.erb_spec.rb
+A	spec/views/pages/home.html.erb_spec.rb
+
+commit fc721f7bdf62ea86abbbd0129a3da51a9ad8f90a
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Fri Aug 5 19:19:58 2011 -0700
+
+    Improved the README
+
+D	README
+A	README.markdown
+
+commit d2a8e8ac38304364940fdb3b321d9767efd9280c
+Author: Bucky Rosato <b.t.rosato@gmail.com>
+Date:   Fri Aug 5 19:02:08 2011 -0700
+
+    Initial  commit
+
+A	.gitignore
+A	.rspec
+A	Gemfile
+A	Gemfile.lock
+A	Gemfile~
+A	README
+A	Rakefile
+A	app/controllers/application_controller.rb
+A	app/helpers/application_helper.rb
+A	app/views/layouts/application.html.erb
+A	config.ru
+A	config/application.rb
+A	config/boot.rb
+A	config/database.yml
+A	config/environment.rb
+A	config/environments/development.rb
+A	config/environments/production.rb
+A	config/environments/test.rb
+A	config/initializers/backtrace_silencers.rb
+A	config/initializers/inflections.rb
+A	config/initializers/mime_types.rb
+A	config/initializers/secret_token.rb
+A	config/initializers/session_store.rb
+A	config/locales/en.yml
+A	config/routes.rb
+A	db/seeds.rb
+A	doc/README_FOR_APP
+A	lib/tasks/.gitkeep
+A	public/404.html
+A	public/422.html
+A	public/500.html
+A	public/favicon.ico
+A	public/images/rails.png
+A	public/index.html
+A	public/javascripts/application.js
+A	public/javascripts/controls.js
+A	public/javascripts/dragdrop.js
+A	public/javascripts/effects.js
+A	public/javascripts/prototype.js
+A	public/javascripts/rails.js
+A	public/robots.txt
+A	public/stylesheets/.gitkeep
+A	script/rails
+A	spec/spec_helper.rb
+A	vendor/plugins/.gitkeep
